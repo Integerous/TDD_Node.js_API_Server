@@ -1,2 +1,3 @@
-# TDD_Node.js_API_Server
-테스트주도개발(TDD)로 만드는 Node.js API Server
+## TDD로 만드는 Node.js API Server
+- 이 곳은 코드 저장소!
+- 학습내용 정리 -> https://github.com/Integerous/TIL/tree/master/Node.js
